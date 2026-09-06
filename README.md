@@ -1,9 +1,10 @@
-## Hi there 👋
 
-**Ibraheem17/Ibraheem17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ibraheem 👋
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Git and version control
+## About Me
+- 🌱 I'm currently learning Git and version control
+- 💻 I'm interested in your interests e.g. cloud computing, web dev
 - 📫 How to reach me: ibraheem.adeneye@gmail.com
 
+## Projects
+- [git-learning-log](https://github.com/your-github-username/git-learning-log) - My first Git project tracking a learning log
